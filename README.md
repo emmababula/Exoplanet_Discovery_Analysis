@@ -33,7 +33,7 @@ The visualizations were created using a dataset of confirmed exoplanets from the
 
 ---
 
-## 🛠Tools Used
+## Tools Used
 
 - **Tableau** – for building and hosting the dashboard  
 - **NASA Exoplanet Archive** – data source
@@ -48,7 +48,7 @@ The visualizations were created using a dataset of confirmed exoplanets from the
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Emma Babula**  
 B.A. in Astronomy, Seeking jobs in data analysis 
